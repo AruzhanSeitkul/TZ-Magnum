@@ -1,0 +1,2027 @@
+{
+    "data": {
+        "items": [
+            {
+                "number": 1,
+                "title": "Собственное производство",
+                "imagePath": "https://data.korzinavdom.kz/D9/E6/16/89/B3/D9E61689B3DFE871748456162506.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 24,
+                        "title": "Пекарня",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 134,
+                                "title": "Булочки с начинкой, пирожки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 136,
+                                "title": "Булочки и куличи Пасхальные",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 138,
+                                "title": "Тесто и п/ф из теста",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 142,
+                                "title": "Лепешки и батоны",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 145,
+                                "title": "Хлеб",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 149,
+                                "title": "Изделия из слоёного теста",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 25,
+                        "title": "Кондитерская",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 133,
+                                "title": "Рулеты, кексы, маффины",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 139,
+                                "title": "Торты и десерты",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 146,
+                                "title": "Печенье",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 151,
+                                "title": "Пирожные",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 152,
+                                "title": "Пироги",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 71,
+                        "title": "Пицца и бутерброды",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 192,
+                                "title": "Пицца",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 218,
+                                "title": "Бутерброды",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 104,
+                        "title": "Салаты и готовые блюда",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 179,
+                                "title": "Салаты Европейские",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 207,
+                                "title": "Салаты Корейские",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 248,
+                                "title": "Готовая кулинария",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 109,
+                        "title": "Закуски, роллы, соусы",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 180,
+                                "title": "Закуски",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 194,
+                                "title": "Роллы",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 252,
+                                "title": "Соусы (огонек, горчица)",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 357,
+                        "title": "Консервированные продукты",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 353,
+                        "title": "2+1",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 354,
+                                "title": "Замороженная продукция",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 22,
+                        "title": "Мясо, мясо птицы, рыба",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 153,
+                                "title": "Мясо и фарши",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 150,
+                                "title": "Рыба переработанная",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 287,
+                                "title": "Мясо птицы охлажденное",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 21,
+                        "title": "Замороженная продукция",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 132,
+                                "title": "Полуфабрикаты замороженные",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 144,
+                                "title": "Пельмени, манты, вареники",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 26,
+                        "title": "Шашлыки, колбаски и мясо маринованное",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 135,
+                                "title": "Из мяса птицы",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 137,
+                                "title": "Из мяса свинины",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 140,
+                                "title": "Из мяса говядины",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 143,
+                                "title": "Колбаски для гриля",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 148,
+                                "title": "Из мяса баранины",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 23,
+                        "title": "Колбасы, деликатесы и сало",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 141,
+                                "title": "Колбасы и сосиски",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 147,
+                                "title": "Деликатесы и сало",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 349,
+                        "title": "Напитки",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 356,
+                "title": "Скидки в Дом",
+                "imagePath": "https://data.korzinavdom.kz/44/F1/F0/40/6C/44F1F0406C8B42A1748456162404.svg",
+                "isGroup": false,
+                "children": []
+            },
+            {
+                "number": 291,
+                "title": "EURO маркет",
+                "imagePath": "https://data.korzinavdom.kz/83/5E/E3/2A/55/835EE32A55CF92D1748456162944.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 299,
+                        "title": "Молочные продукты и сыры",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 300,
+                        "title": "Мясо, мясо птицы, рыба",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 296,
+                        "title": "Колбаса, сосиски, деликатесы из мяса",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 297,
+                        "title": "Полуфабрикаты",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 301,
+                        "title": "Чай, кофе",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 292,
+                        "title": "Кондитерские изделия",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 293,
+                        "title": "Консервированные продукты",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 294,
+                        "title": "Напитки",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 298,
+                        "title": "Макароны, крупы, хлебцы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 302,
+                        "title": "Масла растительные, соусы, майонез, уксусы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 341,
+                        "title": "Мука, соль, сахар, специи и приправы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 345,
+                        "title": "Продукты быстрого приготовления, каши, мюсли",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 348,
+                        "title": "Снеки (чипсы, попкорн, семечки и другое)",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 346,
+                        "title": "Косметика и гигиена",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 314,
+                "title": "Пикник",
+                "imagePath": "https://data.korzinavdom.kz/B2/0E/5D/F9/14/B20E5DF9144662D1748456162360.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 315,
+                        "title": "Собственное производство",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 320,
+                        "title": "Косметика",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 316,
+                        "title": "Посуда",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 317,
+                        "title": "Бытовая химия",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 318,
+                        "title": "Разное",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 338,
+                "title": "Здоровое питание",
+                "imagePath": "https://data.korzinavdom.kz/84/7C/7B/E1/D3/847C7BE1D3CAAA11748456162860.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 339,
+                        "title": "Товары с сахарозаменителем и другое",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "title": "Овощи и фрукты, зелень",
+                "imagePath": "https://data.korzinavdom.kz/95/97/F6/D8/F5/9597F6D8F5553801748456162524.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 43,
+                        "title": "Фрукты",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 59,
+                        "title": "Овощи",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 68,
+                        "title": "Зелень",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 89,
+                        "title": "Орехи (несоленные), сухофрукты",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 98,
+                        "title": "Ягоды, экзотика",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 105,
+                        "title": "Грибы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 115,
+                        "title": "Замороженные овощи, фрукты, ягоды",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "title": "Молочные продукты и сыры, яйцо",
+                "imagePath": "https://data.korzinavdom.kz/C3/D6/37/C6/B8/C3D637C6B8237AA1748456162542.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 41,
+                        "title": "Молоко",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 159,
+                                "title": "Молоко стерилизованное",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 221,
+                                "title": "Молоко короткого хранения",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 61,
+                        "title": "Кисломолочные продукты",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 182,
+                                "title": "Кефир",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 222,
+                                "title": "Ряженка, катык",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 244,
+                                "title": "Снежок, Био-С, сладкий кефир",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 261,
+                                "title": "Курт, жент",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 276,
+                                "title": "Тан",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 67,
+                        "title": "Сливки",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 175,
+                                "title": "Сливки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 226,
+                                "title": "Молочные десерты",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 82,
+                        "title": "Сметана",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 97,
+                        "title": "Йогурты",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 185,
+                                "title": "Йогурты в стаканчиках",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 196,
+                                "title": "Йогурты питьевые",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 111,
+                        "title": "Творог, сырки",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 164,
+                                "title": "Творог",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 228,
+                                "title": "Десерты творожные, творожки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 247,
+                                "title": "Творожные сырки",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 116,
+                        "title": "Масло сливочное, маргарин, спред",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 119,
+                        "title": "Концентрированное и сгущенное молоко",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 177,
+                                "title": "Сгущенное молоко",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 227,
+                                "title": "Концентрированное",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 242,
+                                "title": "Молочные коктейли",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 124,
+                        "title": "Яйцо",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 127,
+                        "title": "Сыры",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 336,
+                        "title": "Растительные напитки",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "title": "Мясо, мясо птицы, рыба",
+                "imagePath": "https://data.korzinavdom.kz/F5/2A/72/FF/62/F52A72FF626F2F51748456162559.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 37,
+                        "title": "Мясо, мясо в маринадах",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 178,
+                                "title": "Мясо и фарши охлажденные",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 217,
+                                "title": "Шашлыки, колбаски и мясо маринованное",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 52,
+                        "title": "Мясо птицы",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 187,
+                                "title": "Мясо птицы охлажденное",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 199,
+                                "title": "Мясо птицы замороженное",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 70,
+                        "title": "Рыба и морепродукты",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 171,
+                                "title": "Рыба и морепродукты замороженные",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 216,
+                                "title": "Рыба и морепродукты переработанные",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "title": "Колбаса, сосиcки, сало, деликатесы из мяса",
+                "imagePath": "https://data.korzinavdom.kz/09/2E/E5/D6/FA/092EE5D6FA361941748456162576.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 33,
+                        "title": "Колбасы",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 156,
+                                "title": "Вареная колбаса",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 211,
+                                "title": "Полукопченая колбаса",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 253,
+                                "title": "Варено-копченая колбаса",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 262,
+                                "title": "Сырокопченая колбаса",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 275,
+                                "title": "Ветчина",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 295,
+                                "title": "Сыровяленая",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 47,
+                        "title": "Сосиски, сардельки и шпикачки",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 69,
+                        "title": "Сало",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 94,
+                        "title": "Деликатесы из мяса",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "title": "Полуфабрикаты",
+                "imagePath": "https://data.korzinavdom.kz/19/CE/E5/F0/BC/19CEE5F0BC5CFE31748456162594.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 28,
+                        "title": "Пельмени, вареники, манты, хинкали",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 64,
+                        "title": "Тесто, основа для пиццы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 75,
+                        "title": "Котлеты, тефтели, фарш",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 83,
+                        "title": "Изделия из птицы и рыбы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 303,
+                        "title": "Почти готово!",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "title": "Чай, кофе, кондитерские изделия",
+                "imagePath": "https://data.korzinavdom.kz/FE/88/DF/4A/D4/FE88DF4AD4ACDCD1748456162611.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 29,
+                        "title": "Кофе",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 165,
+                                "title": "Кофе растворимый (разовые пакеты)",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 205,
+                                "title": "Кофе растворимый",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 250,
+                                "title": "Кофе для варки",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 56,
+                        "title": "Чай",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 172,
+                                "title": "Чай черный",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 220,
+                                "title": "Чай зеленый",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 246,
+                                "title": "Чай с добавками",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 72,
+                        "title": "Какао",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 90,
+                        "title": "Кондитерские изделия и сладости",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 155,
+                                "title": "Варенье, джем, мед, сиропы",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 195,
+                                "title": "Конфеты",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 232,
+                                "title": "Мармелад",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 259,
+                                "title": "Шоколад, шоколадные изделия, жевательные конфеты",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 272,
+                                "title": "Халва, козинаки, рахат-лукум, щербет",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 277,
+                                "title": "Зефир, пастила",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 281,
+                                "title": "Вафли, пряники, печенье",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 285,
+                                "title": "Торты, пирожные, десерты, пироги",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 286,
+                                "title": "Жевательная резинка",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "title": "Консервированные продукты",
+                "imagePath": "https://data.korzinavdom.kz/21/E1/9E/24/9A/21E19E249A8197B1748456162628.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 44,
+                        "title": "Фруктовые и ягодные консервы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 46,
+                        "title": "Горошек, кукуруза, фасоль",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 73,
+                        "title": "Оливки, маслины, грибы, томатная паста",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 170,
+                                "title": "Оливки и маслины",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 214,
+                                "title": "Грибы консервированные",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 258,
+                                "title": "Томатная паста",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 92,
+                        "title": "Овощные закуски, огурцы и помидоры",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 102,
+                        "title": "Рыбные консервы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 106,
+                        "title": "Мясные консервы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 117,
+                        "title": "Паштеты мясные и каши консервированные",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 181,
+                                "title": "Паштеты мясные",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 213,
+                                "title": "Каши мясные консервированные",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "title": "Напитки",
+                "imagePath": "https://data.korzinavdom.kz/B6/03/DF/60/A6/B603DF60A6A5E641748456162646.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 45,
+                        "title": "Вода",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 188,
+                                "title": "Вода (газированная и негазированная)",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 212,
+                                "title": "Вода минеральная",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 257,
+                                "title": "Вода негазированная 5 и более литров",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 54,
+                        "title": "Соки, нектары",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 189,
+                                "title": "Соки в пакетах",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 201,
+                                "title": "Соки в стекле",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 79,
+                        "title": "Квас, холодный чай, кофе",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 85,
+                        "title": "Напитки, лимонады",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 100,
+                        "title": "Энергетики",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 107,
+                        "title": "Растворимый кисель",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 113,
+                        "title": "Кисель, компот, морс",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 335,
+                        "title": "Растительные напитки",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "title": "Макароны, крупы",
+                "imagePath": "https://data.korzinavdom.kz/E6/32/41/EC/71/E63241EC71852631748456162666.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 34,
+                        "title": "Макароны, pasta, фунчоза",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 49,
+                        "title": "Крупы",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "title": "Мука, соль, сахар, специи и приправы",
+                "imagePath": "https://data.korzinavdom.kz/A6/41/03/36/FC/A6410336FC8289D1748456162685.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 42,
+                        "title": "Мука, соль, сахар",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 62,
+                        "title": "Специи, приправы",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 158,
+                                "title": "Специи (для выпечки)",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 223,
+                                "title": "Приправы и бульоны (для приготовления блюд)",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "title": "Масла растительные, соусы, майонез, уксусы",
+                "imagePath": "https://data.korzinavdom.kz/D9/00/8F/68/3C/D9008F683C4CA4C1748456162702.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 27,
+                        "title": "Майонезы, соус майонезный",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 53,
+                        "title": "Соусы кулинарные",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 65,
+                        "title": "Кетчупы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 84,
+                        "title": "Уксусы, маринады",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 103,
+                        "title": "Масло подсолнечное, оливковое и другие",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 176,
+                                "title": "Масло подсолнечное",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 208,
+                                "title": "Масло оливковое и другие",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 13,
+                "title": "Хлеб, булочки, лепешки",
+                "imagePath": "https://data.korzinavdom.kz/6F/D0/E3/84/F2/6FD0E384F2D7E2C1748456162720.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 32,
+                        "title": "Лаваши, лепешки",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 55,
+                        "title": "Сухари, сушеный хлеб, гренки",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 81,
+                        "title": "Сушки, баранки, хлебные палочки",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 86,
+                        "title": "Хлеб",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 112,
+                        "title": "Булочки, кексы, ватрушки, слойки",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 121,
+                        "title": "Багеты и батоны",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 161,
+                        "title": "Хлебцы, слайсы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 355,
+                        "title": "Пицца и бутерброды",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 14,
+                "title": "Продукты быстрого приготовления, каши, мюсли",
+                "imagePath": "https://data.korzinavdom.kz/36/3F/9D/E0/C8/363F9DE0C8701AE1748456162737.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 35,
+                        "title": "Пюре, супы, лапша",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 51,
+                        "title": "Каши, мюсли и батончики",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 80,
+                        "title": "Завтраки (хлопья)",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 87,
+                        "title": "Здоровое питание",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 241,
+                                "title": "Товары с сахарозаменителем и другое",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 15,
+                "title": "Снеки (чипсы, попкорн, семечки и другое)",
+                "imagePath": "https://data.korzinavdom.kz/16/7F/41/8A/88/167F418A88AD4221748456162755.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 31,
+                        "title": "Чипсы",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 50,
+                        "title": "Сухарики, гренки",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 77,
+                        "title": "Кукурузные палочки и попкорн",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 91,
+                        "title": "Снеки из морепродуктов, сыр чечил",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 101,
+                        "title": "Семечки, орешки соленые",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 16,
+                "title": "Товары для детей",
+                "imagePath": "https://data.korzinavdom.kz/68/69/E2/A9/6E/6869E2A96E5711B1748456162773.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 36,
+                        "title": "Детская гигиена и косметика",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 168,
+                                "title": "Гели, шампуни, мыло",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 219,
+                                "title": "Трусики, подгузники, пеленки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 255,
+                                "title": "Салфетки влажные, туалетная бумага",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 267,
+                                "title": "Кремы, молочко, масло",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 274,
+                                "title": "Соски, посуда, мочалки, щетки и другое",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 280,
+                                "title": "Средства для стирки детского белья",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 282,
+                                "title": "Детские зубные пасты и щетки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 284,
+                                "title": "Детский текстиль",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 60,
+                        "title": "Детское питание",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 190,
+                                "title": "Напитки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 225,
+                                "title": "Пюре",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 234,
+                                "title": "Каши, смеси и другое",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 260,
+                                "title": "Кондитерские изделия",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 289,
+                        "title": "Игрушки",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 17,
+                "title": "Уборка и Бытовая химия",
+                "imagePath": "https://data.korzinavdom.kz/CA/63/29/09/FF/CA632909FF5925D1748456162790.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 38,
+                        "title": "Предметы для уборки",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 173,
+                                "title": "Губки, тряпки, салфетки для уборки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 215,
+                                "title": "Мусорные пакеты, мешки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 240,
+                                "title": "Ершики, щетки и другое",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 57,
+                        "title": "Средства для уборки",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 162,
+                                "title": "Средства для чистки сантехники",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 200,
+                                "title": "Средства уборки кухни",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 249,
+                                "title": "Средства для чистки поверхностей",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 266,
+                                "title": "Средства для мытья посуды",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 271,
+                                "title": "Средства для посудомоечных машин",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 278,
+                                "title": "Хозяйственное мыло",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 78,
+                        "title": "Средства для стирки и уход за вещами",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 184,
+                                "title": "Основные средства для стирки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 206,
+                                "title": "Вспомогательные средства для стирки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 233,
+                                "title": "Кондиционеры для белья",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 88,
+                        "title": "Уход за одеждой и обувью",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 99,
+                        "title": "Батарейки, лампочки и тд",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 114,
+                        "title": "Обустройство дома, интерьер",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 120,
+                        "title": "Товары для авто",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 129,
+                        "title": "Предметы для кухни",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 130,
+                        "title": "Освежители воздуха",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 131,
+                        "title": "Средства борьбы с насекомыми и молью",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 18,
+                "title": "Косметика и гигиена",
+                "imagePath": "https://data.korzinavdom.kz/B4/0C/98/FB/9E/B40C98FB9E0AF361748456162807.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 39,
+                        "title": "Уход за телом",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 174,
+                                "title": "Увлажняющие кремы и средства",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 224,
+                                "title": "Гели, муссы для душа",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 63,
+                        "title": "Уход за лицом",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 166,
+                                "title": "Кремы для лица",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 193,
+                                "title": "Лосьоны, вода, молочко, муссы, спреи",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 245,
+                                "title": "Ватная продукция",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 269,
+                                "title": "Маски для лица",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 74,
+                        "title": "Уход за руками",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 169,
+                                "title": "Крем для рук и ног",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 229,
+                                "title": "Лак, жидкость для снятия лака",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 239,
+                                "title": "Мыло туалетное",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 93,
+                        "title": "Уход за волосами",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 186,
+                                "title": "Шампуни",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 210,
+                                "title": "Бальзамы и кондиционеры",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 243,
+                                "title": "Краска для волос",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 268,
+                                "title": "Средства для укладки",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 96,
+                        "title": "Уход за полостью рта",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 167,
+                                "title": "Зубная паста",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 197,
+                                "title": "Зубная щетка",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 238,
+                                "title": "Ополаскиватели, зубочистки, зубная нить",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 108,
+                        "title": "Женская гигиена",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 191,
+                                "title": "Прокладки",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 203,
+                                "title": "Тампоны",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 236,
+                                "title": "Дезодоранты, антиперспиранты",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 265,
+                                "title": "Депиляция",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 270,
+                                "title": "Средства для интимной гигиены",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 118,
+                        "title": "Мужская косметика и гигиена",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 183,
+                                "title": "Дезодоранты, антиперспиранты",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 198,
+                                "title": "Для бритья",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 235,
+                                "title": "Для ванны и душа",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 122,
+                        "title": "Баня, сауна",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 123,
+                        "title": "Туалетная бумага, салфетки и бумажные полотенца",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 163,
+                                "title": "Туалетная бумага",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 230,
+                                "title": "Бумажные полотенца",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 254,
+                                "title": "Салфетки бумажные",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 264,
+                                "title": "Влажные салфетки",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 347,
+                        "title": "Товары медицинского назначения",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 19,
+                "title": "Товары для животных",
+                "imagePath": "https://data.korzinavdom.kz/88/E0/60/12/81/88E0601281C5B971748456162824.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 40,
+                        "title": "Корма для кошек",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 48,
+                        "title": "Корма для собак",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 66,
+                        "title": "Наполнители, другие аксессуары",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 288,
+                "title": "Праздник",
+                "imagePath": "https://data.korzinavdom.kz/1A/9B/A6/3F/7E/1A9BA63F7E429751748456162904.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 110,
+                        "title": "Аксессуары для праздника",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 125,
+                        "title": "Одноразовая посуда",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 126,
+                        "title": "Все для пикника",
+                        "isGroup": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "number": 20,
+                "title": "Алкоголь",
+                "imagePath": "https://data.korzinavdom.kz/03/9C/FB/4C/AB/039CFB4CABF2E7E1748456162842.svg",
+                "isGroup": true,
+                "children": [
+                    {
+                        "number": 30,
+                        "title": "Вино",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 157,
+                                "title": "Красные вина",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 231,
+                                "title": "Белые вина",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 251,
+                                "title": "Розовые вина",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 58,
+                        "title": "Шампанское, игристые вина",
+                        "isGroup": false,
+                        "children": []
+                    },
+                    {
+                        "number": 76,
+                        "title": "Пиво",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 319,
+                                "title": "Пиво разливное",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 202,
+                                "title": "Пиво в бутылках",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 237,
+                                "title": "Пиво в ж\\б",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "number": 95,
+                        "title": "Крепкий Алкоголь",
+                        "isGroup": true,
+                        "children": [
+                            {
+                                "number": 154,
+                                "title": "Водка",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 209,
+                                "title": "Коньяк, бренди",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 256,
+                                "title": "Настойки, наливки, абсент",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 263,
+                                "title": "Ликеры",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 273,
+                                "title": "Виски",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 279,
+                                "title": "Ром, джин, текила",
+                                "isGroup": false,
+                                "children": []
+                            },
+                            {
+                                "number": 283,
+                                "title": "Аперитивы, вермуты",
+                                "isGroup": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
